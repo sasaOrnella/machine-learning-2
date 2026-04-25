@@ -2,7 +2,7 @@
 
 This project implements an R-CNN style object detection pipeline for raccoon localization using a public image dataset with VOC/XML annotations.
 
-## Methods
+### Methods
 - VOC/XML annotation parsing
 - Selective Search for region proposals
 - IoU-based positive/negative sample assignment
@@ -11,8 +11,6 @@ This project implements an R-CNN style object detection pipeline for raccoon loc
 - Non-Maximum Suppression (NMS)
 - Prediction visualization
 
-## Tools
+### Tools
 Python, PyTorch, TorchVision, OpenCV, NumPy, Matplotlib
 
-## Key Learning
-This project helped me understand the full object detection workflow, including region proposal generation, IoU matching, bounding-box regression, and post-processing with NMS.
