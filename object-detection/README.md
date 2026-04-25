@@ -1,4 +1,3 @@
 # Object Detection Project
 
-This project focuses on raccoon detection using convolutional neural networks. 
-The goal is to train a computer vision model to identify raccoons in images and evaluate its detection performance.
+This project implements an object detection pipeline for raccoon detection using the public Raccoon dataset. The goal is to train and evaluate a computer vision model that can localize raccoons in images using bounding boxes.
