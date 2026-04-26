@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+nltk
+scikit-learn
+gensim
+datasets
+torch
+torchvision
+torchtext
+wordcloud
+tqdm
